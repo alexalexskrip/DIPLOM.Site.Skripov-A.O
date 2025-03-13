@@ -1,0 +1,13 @@
+.menu {
+    background: #F6F6F6;
+    padding: 20px 27px;
+    border-radius: 30px;
+}
+.menu ul {
+    display:flex;
+    justify-content: space-between;
+}
+.menu li{
+    list-style: none;
+    
+}
