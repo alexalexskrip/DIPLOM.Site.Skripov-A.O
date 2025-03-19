@@ -115,6 +115,9 @@ header {
     padding: 15px;
     border-radius: 30px;
 }
+.news i {
+    color:#000000B2;
+}
 .footer_link {
     text-decoration: none; 
     color: #000000B2; 
